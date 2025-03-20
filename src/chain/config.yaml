@@ -1,0 +1,15 @@
+chain:
+  bsc-mainnet:
+    chain_id: 56
+    rpc_url: "https://bsc-dataseed.bnbchain.org"
+    pancake_v3_swap_router_addr: "0x1b81D678ffb9C0263b24A97847620C99d213eB14"
+    pancake_v3_factory_addr: "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+    beeper_addr: "0x488FF32dABC2cC42FEc96AED5F002603bB3CEd3F"
+    beeper_util_addr: "0x5c84c3c6dF5A820D5233743b4Eea5D32bEa30362"
+  bsc-testnet:
+    chain_id: 97
+    rpc_url: "https://bsc-testnet-rpc.publicnode.com"
+    pancake_v3_swap_router_addr: "0x1b81D678ffb9C0263b24A97847620C99d213eB14"
+    pancake_v3_factory_addr: "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+    beeper_addr: "0x6257761AB5a92E89cD727Ea6650E1188D738007a"
+    beeper_util_addr: "0xa29Bfb0ab2EED7299659B4AAB69a38a77Fd62aa5" 
