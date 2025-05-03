@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stopwarbywar-beeper-mcp-server-badge.png)](https://mseep.ai/app/stopwarbywar-beeper-mcp-server)
+
 # beeper_mcp MCP server
 
 a mcp server for interacting with chain
